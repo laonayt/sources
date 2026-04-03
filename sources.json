@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "updatedAt": "2026-04-03T22:10:00Z",
+    "sources": [
+        {
+            "name": "巧记",
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "enabled": true
+        },
+        {
+            "name": "王小二",
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "enabled": true
+        },
+        {
+            "name": "OK吊炸天",
+            "url": "http://ok321.top/tv",
+            "enabled": true
+        }
+    ]
+}
